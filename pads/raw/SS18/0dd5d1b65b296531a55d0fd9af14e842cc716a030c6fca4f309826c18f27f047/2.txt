@@ -1,0 +1,28 @@
+Research Hypothesis: 
+The research hypothesis is based on the research question and has to be specific, clear and testable. In general the research hypothesis is a paring down of the investigated phenomenon´s problem. It is a prediction about the outcome of a linguistic experiment or research and contains the alternative and the null hypothesis. Also it connects two variables, which mostly consist of one dependent and one or more independent variables. 
+
+Independent vs. Dependent Variable:
+If one researches if there is a difference between how far english native speakers and not english native speakers get in a poetry competition, the score/ranking in the competition would be the dependent variable and being a native speaker or not would be the independent variable.
+The dependent variable is the result of certain circumstances and the research, the independent variable influences the result of the research. 
+
+Alternative vs. Null Hypothesis:
+ Example: Is there a difference in the scores in a poetry competition from english native speakers and people who´s second language is english?
+ H0 (Null Hypothesis): There is no difference in the scores from native speakers and not native speakers.
+ H1 (Alternative Hypothesis): There is a difference in the scores from native speakers and not native speakers. 
+ The null hypothesis serves as a neutral basis for the research. The alternative hypothesis presents what the study´s linguist expects to happen. The combination of both is needed because of the logic of falsification which basically says that it is not possible to prove that something is 100 percent right, but it is possible to reject the opposite of that statement.  
+
+Test Statistics, p-Values:
+Test statistics are statistcs that are used in statistical hypothesis, testing through a quantity from a deriving sample. With the help of test statstics we can decide if the null hypothesis is to be rejected, comparing the data that is expected by the null hypothesis. The test statistic measures in how far our results vary from the results that would have been expected given H0. By calculating the p-value (calculated probability), researchers can determine the significance of the results. P-values evaluate how well the sample data supports the argument that the null hypothesis is true. It measures how compatible your data is with the null hypothesis. If a p-value is smaller than a constraint  (usually 0.05 or 0.01), then the null hypothesis is rejected. If the p-value is larger than the aforementioned constraint, then the null hypothesis cannot be rejected.   
+
+4 main components of the research report (IMRAD):
+ Introduction: The introduction includes a description of chosen phenomenon, its background and why it is interesting to investigate. The phenomenon should also be categorizied in the lingusitic context and in form of a preview the related research question or hypothesis should be presented. 
+Method: In the method part of the research report the corpus should be explained accurately; how big it is, which features it has, how and why it is chosen for that specific study. Further it is needed to explain how the data was processed. 
+Results: Within the result section of the research report the results should be presented descriptively and discussed in tables and figures. It should also be said what the descriptive statistics suggest. The data should be submitted to statistical analysis and both relevant measures and the used test need to be presented.   
+Discussion: In the discussion the results should be summarized and theoretical and applied implications discussed. Furthermore open questions and the direction of the research in the future is to be mentioned.   
+
+
+Data collection methods (advantages + disadvantages):
+1. natuarlistic (contextualized): The naturalitic data collection method deals with naturally recorded and spontaneous speech as classroom observations. The advantage of that method is first of all the authenticity of the learner´s production. The learner is also not influenced by any rules or settings and therefore it is possible to examine the most natural way of language The disadvantage of that method is that particular target structures are difficult to analyse because they are not used as much as it would be needed for the research.
+2. elicited production: Elicited production procedures are initiated and structured like a story retelling or a picture description. The advantages of that method are that the procedure can be modified to the specific aspects the research want to examine and that even though the frame of the procedure is structured and prescribed the learner performance is still potentially natural. The disadvantage is the lack of control over linguistic context so that the examined subjects may still avoid targeted structures or language use.
+3. experimental (decontextualized):  Experimental procedures and tasks are a very directive method to examine precisely. Examples are utterance complition and grammaticality judgments. The advantage is that the strictly controlled data is yielding exactly that information the researcher is looking for. The disadvantage is the artificiality that automatically occurs in such a structured method.
+

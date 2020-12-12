@@ -1,0 +1,9 @@
+The Corpus Linguistics Session 7 was about discribing, understanding and visualizing the data that we find in our researches and about Descriptive Stats that are needed to show tendences in our researches.
+
+We learned about measures of central tendency by using our Learning Journals as examples.
+Beside the minimum and maximum we mentioned the so called "Mode" that is the most frequent value in the data,  the "Mean" what is basically the average and the "Median" which is the score right in the center of the distribution.
+Besides those key terms we learned about the three "Quantiles" that represent ( 1st)1/4, (2nd - also median) 1/2 and (3rd) 3/4 of all ranked score below this rate.
+In order to visualize this measures you could either use a boxplot or graphics, diagramms and tables.
+If we go back to the boxplots, a wider box usually means more variation (interquartal range)
+
+Outliers are scores that are very different from the average. For example if you compare how much money workers at a company earn, the workers may all earn for example 2000€/Month while the one CEO earns 10000€/Month. In this case the CEO is the Outlier because he differs a lot from the other people. The mean is very problematic because it gets very effected by those outliers and may be unaccurate.

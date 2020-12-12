@@ -1,0 +1,16 @@
+The third session of the corpus linguistics lecture contains three parts.
+The first part was merely about introducing us some of the key words we need within the lecture and the linguistic methods course.
+The second part was about how to write a research report and the last and third part was about the data collection methods we need to know about for our own research.
+
+The research question is a question we are looking to answer in our research whether the research hypothesis is more like a more specific statement we are going to proof or to reject.
+The Null-Hypothesis (H0) is the research hypothesis we want to reject within the research whether the Alternative-Hypothesis (H1) is the opposite put not automatically accepted when we are able to reject the H0.
+We divide between directional and non-directional Hypothesis. The directional H0 gives us a direction in that our research might go. The non-directional H0 on the other hand does not give any direction.
+
+For our research we have learned about a clear structure we should use for our own reseach project, called : IMRaD.
+IMRaD stands for Introduction --> Method --> Results --> and --> Discussion. Those words should be able to stand for themselves.
+
+The last point I am going to talk about is the last part of the third lecture. The general concepts of data collection.
+The first one is the naturalistic approach which is based on analysing tv-scripts or other real texts (also using camus data). It is positive that it is a authentic way to get data, but it is not always what you need for your particular research question.
+The second approach is the elicited approach, that is based on real interviews. So it looks how people acutally speak. It is a very constant but a negative point is that it is very influenced by the motivation of the interview partner.
+The third and last approach is the very expensive experimental approach. The experimental approach is based on (as the name could let you think) experiments like eye tracking. You need to prepare a lot of i.e. technical things, but it may be not really authentic because people behave differently when they are observed by doing things.
+(For our research we do use corpora).

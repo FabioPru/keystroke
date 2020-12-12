@@ -1,0 +1,19 @@
+,id,user_id,file_path,text,start_pos,end_pos,text_len,keystroke_count,deletion_count,word_count,t,t10000,no_pauses_510,no_pauses_2000,no_pauses_10000,max_pause,position_max_pause,jumps,chunks,word_t10000,separator_t10000,revision_t10000
+0,0,0.0,SS18/01894/1,"Learning Journal 1
+
+The second session dealt with Language Acquisition.",0,71,71.0,85.0,7.0,10.0,2811019.0,37468.0,12.0,3.0,1.0,2783551.0,0.0,0.0,1.0,11714.0,15754.0,6031.0
+1,1,0.0,SS18/01894/1,In the following I will describe the most important terms as assigned.,72,142,70.0,78.0,3.0,12.0,59341.0,39790.0,4.0,3.0,2.0,28232.0,70.0,0.0,2.0,23142.0,4876.0,12193.0
+2,2,0.0,SS18/01894/1,The first important term is Second language.,144,188,44.0,59.0,7.0,7.0,23911.0,23911.0,10.0,3.0,0.0,3657.0,0.0,4.0,3.0,14801.0,2051.0,7961.0
+3,3,0.0,SS18/01894/1,"A second language is any language that you acquire after your earliest childhood, which would be from around 0 to 4 years of age.",189,318,129.0,136.0,3.0,24.0,64820.0,64820.0,18.0,7.0,0.0,8632.0,19.0,1.0,4.0,30857.0,30095.0,17159.0
+4,4,0.0,SS18/01894/1,It is a language that you do not acquire from your parents.,319,378,59.0,60.0,0.0,12.0,12495.0,12495.0,3.0,0.0,0.0,774.0,23.0,0.0,1.0,7107.0,4630.0,0.0
+5,5,0.0,SS18/01894/1,"It is important to note that the term ""second language"" is used as an umbrella term for any language acquired in the later terms of your life.",379,521,142.0,151.0,4.0,27.0,88800.0,59802.0,8.0,3.0,2.0,34580.0,85.0,0.0,1.0,36821.0,12480.0,2048.0
+6,6,0.0,SS18/01894/1,Language skills are also an important part of language acquistition.There are four language skills that you need to acquire in order to be proficient in a language.,522,686,164.0,241.0,38.0,27.0,101161.0,99496.0,36.0,6.0,1.0,11665.0,69.0,6.0,4.0,54003.0,16770.0,38529.0
+7,7,0.0,SS18/01894/1,"These four skills are writing skills, listening skills, speaking skills and reading skills.",687,778,91.0,118.0,13.0,13.0,36755.0,36755.0,16.0,1.0,0.0,5138.0,1.0,3.0,2.0,31513.0,4571.0,12702.0
+8,8,0.0,SS18/01894/1,They are further classified into productive skills (writing and speaking) and receptive skills (listening and reading).,779,898,119.0,168.0,15.0,16.0,70697.0,67367.0,22.0,6.0,1.0,13330.0,119.0,2.0,3.0,38520.0,18340.0,20835.0
+9,9,0.0,SS18/01894/1,"To distinguish different levels of language proficiency, you need some sort of benchmark, a so-called Language-learning Target.",899,1026,127.0,186.0,15.0,17.0,88873.0,82761.0,23.0,9.0,1.0,16112.0,0.0,1.0,3.0,44120.0,12040.0,38794.0
+10,10,0.0,SS18/01894/1,"It is used as a comparison, a standard that you can hold up against the skill level of a language learner.",1027,1133,106.0,109.0,1.0,21.0,41792.0,41792.0,9.0,5.0,0.0,6436.0,27.0,0.0,2.0,23478.0,17439.0,3243.0
+11,11,0.0,SS18/01894/1,In this case the most evident benchmark to use would be the language performance of a native speaker.,1134,1235,101.0,104.0,1.0,18.0,43400.0,37482.0,11.0,2.0,1.0,15918.0,23.0,0.0,1.0,27648.0,8833.0,2461.0
+12,12,0.0,SS18/01894/1,"But this brings forth a problem, since native speakers actually do not speak flawlessly, they make mistakes or use certain slangs.",1236,1366,130.0,139.0,4.0,21.0,66110.0,53965.0,11.0,6.0,1.0,22145.0,10.0,0.0,1.0,34145.0,9724.0,6876.0
+13,13,0.0,SS18/01894/1,"Native language competence will differ from person to person, since language is not a static system.",1367,1467,100.0,103.0,1.0,16.0,25392.0,25392.0,10.0,1.0,0.0,3452.0,28.0,0.0,1.0,17160.0,7215.0,1116.0
+14,14,0.0,SS18/01894/1,So a native speaker as the only benchmark can be very misleading.,1468,1533,65.0,72.0,3.0,12.0,20283.0,20283.0,6.0,2.0,0.0,3522.0,0.0,0.0,1.0,8314.0,7514.0,1277.0
+15,15,0.0,SS18/01894/1,"To examine language competence in practice, there are two theories which you can apply to your studies.",1534,1637,103.0,104.0,0.0,17.0,90773.0,81371.0,11.0,8.0,3.0,16716.0,0.0,0.0,1.0,63272.0,7849.0,0.0

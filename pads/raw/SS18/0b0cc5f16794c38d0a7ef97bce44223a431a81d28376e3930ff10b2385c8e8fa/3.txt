@@ -1,0 +1,9 @@
+In session 3 of the Corpus Linguistic lecture we had again a general introduction to research methods in linguistics.
+The first thing I am going to do is again explaining some general key terms of the lecture.
+First, population and parameters. The population is the group of people we are looking at in a research. The parameters are the characteristics those specific group of people has to offer. It is important for a deeper understanding of the research. The third key term we learned in the session is "Operationalization". This is how we call the process we define the variables that might occur in the research into factors we should be able to measure.
+A sample is therefor a representative, a prototype we are looking at in our population. A sampling error is on the other hand a difference between the charakteristics of the sample and the population that takes place in our research.
+We also learned about two kinds of statistics. The descriptive and the inferential statistics. The desctiptive one provides the charakteristics of a specific sample and the inferential statistics use characteristics of a sample in order to make conclusions about the population that takes place in our research in general. So in descriptive statistics you look at for example one specific group of speakers versus comparing different groups at inferential statistics.
+The three general desiderata of quantitative research are Validity, Reliability and Replicability.
+Validity says, that the research can show us exactly what we ask for in our research question and that we are aware about possible measurement problems or technical issues that could occure in the research.
+Reliability says that our measurement has to be consistent in the outcome whether we use different raters or instruments.
+Replicability says that the research can be done by anyone at everytime with other context and the same findings can be expected in a second, third, fourth ..., try.

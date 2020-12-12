@@ -1,0 +1,11 @@
+In session ten of out Corpus Linguistics lesson, we took a look on how syntactic complexity can be used to analyze the L1 or L2 language skills of someone.
+We learned in a little intorduction, that the syntactic complexity is just a part of a bigger systhem called CAF (Complexity - Accuracy - Fluency), that is used to measure the productive skills someone has. However, only complexity was covered in the lecture. The syntactic complexity looks at specific structures L2-learners use. In order to that, there are four aspects that can be measured. The lenght of production units, the type and incidence of embeddings, the types and numer of coordinations between clauses and the range and types of phrasal units as well as the frequency of clauses and phrases used. Those aspects for example, may be the expectations of a teacher for his students to have in order to be good in speaking a new language (or writing in a new language).
+
+If we look for example at the T-Unit (main clause + all associated dependent clauses), we expect from a good speaker/writer to be as long as possible. Sure, experts do have a bigger vocabulary and grammatical skills than beginners and can make longer sentences. 
+Another example was the noun phrase complexity. That means we count the number of modifiers per noun phrase used. The more, the better. 
+The third example we were told was about the range and types of phrasal units as well as the frequency of clauses and phrases used so we looked at the normed rates of occurrence of non-finite relative clauses used.
+In order to count all of these elements, there are again some tools that can do the work for us. Such as Biber, Tagger or TAASSC. Using them is a reliable way of measuring, because you do not have to count them by yourself step for step.
+
+The main assumption we have if we look at the syntacitc complexity of someones sentences is that we expect it to be better within the learing time.
+
+However, the model of testing we use in order to look at the complexity of someones writings could realy influence the outcome. If someone is holding a cemistry lesson, he may be talking way more complex than someone who is telling kids something about dinosaurs. That does not mean that the second probant has worse language skills that the first one. It just means that the test is not accurate enough for him.
