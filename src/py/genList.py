@@ -10,6 +10,10 @@ path = sys.argv[1]
 df = pd.read_json(path+'df.json')
 ops = pd.read_json(path+'ops.json')
 
+df = df[sorted(df.columns)]
+ops = ops[sorted(ops.columns)]
+
+
 cl = df.columns[4:-3]
 
 for c in cl:

@@ -32,6 +32,8 @@ k = k[k['s_id'] != -1]
 
 # DELETE COPY PASTED SENTENCES
 def dropSentence (id):
+    return  
+
     global s
     global k
     s = s[s.id != id]
